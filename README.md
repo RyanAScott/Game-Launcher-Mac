@@ -1,2 +1,2 @@
-# Game-Launcher-Mac
-Executable that works on mac
+# Game-Launcher-Deliverables
+This is just for project info and deliverables
